@@ -1,0 +1,6 @@
+dataset/
+final_dataset/
+resized_dataset/
+best_model.keras
+final_model.keras
+__pycache__/
